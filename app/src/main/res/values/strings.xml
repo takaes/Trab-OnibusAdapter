@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Frota De Onibus</string>
+    
+    <string-array name="Tipo">
+        <item>Leito</item>
+        <item>Convencional</item>
+    </string-array>
+</resources>
